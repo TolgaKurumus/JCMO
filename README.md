@@ -1,1 +1,1 @@
-# JCMO
+# JAYA Chemical Mechanism Optimizer
