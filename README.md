@@ -1,3 +1,8 @@
 # JAYA Chemical Mechanism Optimizer
 
-A tutorial is coming soon!
+## Requirements
+- Python 3.8.10
+- Cantera 3.0
+
+
+
