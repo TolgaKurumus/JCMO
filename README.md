@@ -25,7 +25,7 @@
 
 ### Step 3: Simulation Configurations
 
-- From here, you have to input numbers for every configuration needed.
+- From here, input numbers for every configuration needed.
 - Determine and set the experimental conditions you're targeting.
 - For every target, include the corresponding experimental data in a .csv file, using the format shown in the tutorial.
 - Once you've defined all the configurations, press "Apply Conditions". The GUI will then generate the necessary files.
